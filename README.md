@@ -20,7 +20,7 @@ git clone https://github.com/HEFAN1577/groqAPI-llama3.2-90b-2--Maomi.git
 这个命令会根据 requirements.txt 文件中的列表，安装所有必要的Python库。
 
 4. 获取API密钥
-访问 Groq官网 并注册账户（如果需要），然后申请一个API密钥。这个密钥对于项目的某些功能可能是必需的。
+访问 Groq官网 然后申请一个API密钥。
 
 5. 配置环境变量
 编辑项目目录下的 .env 文件，将API密钥填入其中。.env 文件通常用于存储环境变量，这样你的密钥就不会直接暴露在代码中。
