@@ -10,7 +10,6 @@
 
 ## 步骤指南
 
-### 克隆项目
 打开终端或命令提示符，运行以下命令来克隆项目：
 ```bash
 git clone https://github.com/HEFAN1577/groqAPI-llama3.2-90b-2--Maomi.git
