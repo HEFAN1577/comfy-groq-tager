@@ -1,4 +1,5 @@
 # GroqAPI-llama3.2-90b-2--Maomi
+![微信截图_20241113133035](https://github.com/user-attachments/assets/e03683ef-b272-4c64-b7c9-9bc3eb2bc41e)
 
 `groqAPI-llama3.2-90b-2--Maomi` 项目运行指南。按照以下步骤设置和运行项目。
 
