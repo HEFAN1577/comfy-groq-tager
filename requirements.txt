@@ -1,0 +1,22 @@
+# 基础依赖
+gradio>=4.0.0
+python-dotenv>=1.0.0
+Pillow>=10.0.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+httpx>=0.25.0
+
+# API客户端
+groq>=0.4.0
+
+# 工具库
+python-ffmpeg>=2.0.0
+moviepy>=1.0.3
+
+# 日志和工具
+logging>=0.5.0
+
+# 可选依赖（用于开发）
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
